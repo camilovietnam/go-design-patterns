@@ -6,5 +6,7 @@ This repository was created to put the ideas from this book into code: [Go Desig
 01 - Creational Patterns
 
 - Singleton: 
-    - Database connection https://github.com/camilovietnam/go-design-patterns/tree/main/01-creational/01-singleton-pattern/database
-    - Lock a resource https://github.com/camilovietnam/go-design-patterns/tree/main/01-creational/01-singleton-pattern/lock
+    - Use a shared database connection with a singleton client https://github.com/camilovietnam/go-design-patterns/tree/main/01-creational/01-singleton-pattern/database
+    - Share resources with a singleton lock https://github.com/camilovietnam/go-design-patterns/tree/main/01-creational/01-singleton-pattern/lock
+- Builder: 
+    - Allow multiple logger types by using a builder https://github.com/camilovietnam/go-design-patterns/tree/main/01-creational/02-builder-pattern/logger   
