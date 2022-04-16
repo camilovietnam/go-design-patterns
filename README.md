@@ -5,4 +5,6 @@ This repository was created to put the ideas from this book into code: [Go Desig
 
 01 - Creational Patterns
 
-- Singleton: https://github.com/camilovietnam/go-design-patterns/tree/main/01-creational/01-singleton-pattern/database
+- Singleton: 
+    - Database connection https://github.com/camilovietnam/go-design-patterns/tree/main/01-creational/01-singleton-pattern/database
+    - Lock a resource https://github.com/camilovietnam/go-design-patterns/tree/main/01-creational/01-singleton-pattern/lock
